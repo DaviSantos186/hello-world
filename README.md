@@ -1,2 +1,2 @@
 # hi
-As a student of object-oriented and other languages, I will be sharing my personal projects here, for learning purposes.
+As a student of object-oriented programming and other technologies, I will be sharing my projects here. Hope to help. Feel free to get in touch and share your knowledge.
